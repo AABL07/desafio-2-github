@@ -1,4 +1,4 @@
-# desafio-2-github
+# Desafio-2-Formação-Github-DIO
 
 ## Descrição
 
